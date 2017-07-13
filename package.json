@@ -1,0 +1,27 @@
+{
+  "name": "auth0-invite-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norisalsaadie/auth0-invite-flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norisalsaadie/auth0-invite-flow/issues"
+  },
+  "homepage": "https://github.com/norisalsaadie/auth0-invite-flow#readme",
+  "dependencies": {
+    "auth0": "^2.7.0",
+    "body-parser": "^1.17.2",
+    "compression": "^1.7.0",
+    "express": "^4.15.3",
+    "uuid": "^3.1.0"
+  }
+}
